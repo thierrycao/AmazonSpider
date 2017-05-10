@@ -1,0 +1,12 @@
+*.log
+*.swp
+
+#Top-level generic files
+/__pycache__
+/res
+/debug
+
+
+
+#git files that we don't want to ignore even they are dot-files
+!.gitignore
